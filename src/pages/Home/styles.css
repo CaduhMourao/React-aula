@@ -4,12 +4,28 @@
     align-items: center;
 }
 
-.container h1 {
+.container header {
     margin: 8.4rem 0 2.4rem;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container header img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 3rem;
+    margin-left: .7rem;
+}
+
+.container header div {
+    display: flex;
+    align-items: center;
 }
 
 .container input {
-    width: 50%;
+    width: 60%;
     padding: 2.4rem;
 
     background-color: #e6e6e6;
@@ -20,7 +36,7 @@
 }
 
 .container button {
-    width: 50%;
+    width: 60%;
     padding: 2.4rem;
 
     font-weight: 700;
