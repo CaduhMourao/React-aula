@@ -1,5 +1,5 @@
-Projeto feito com React, Typescript e API do Github, que cria uma lista de presença.
+<h1>Lista de presença</h1>
 
-https://reactjs-list.netlify.app
+Projeto feito com React, Typescript e API do Github, que cria uma lista de presença, com useState.
 
-<img src="https://github.com/CaduhMourao/ImagensProjetos/blob/main/Lista-de-Presença/lista-presença.png" />
+<a href="https://reactjs-list.netlify.app" target="_blank">Click aqui para testar o projeto</a>
